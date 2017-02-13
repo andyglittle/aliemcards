@@ -19,7 +19,7 @@ drugs: 'aspirin, heparin'
 -   Golden Window = **6 hours **
 -   Etiologies: 
 
-*Most common:* thromboembolic cause
+**Most common:** thromboembolic cause
 
 *Less common causes:*
 
