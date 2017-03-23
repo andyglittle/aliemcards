@@ -4,7 +4,7 @@ title: 'Seizure, New Onset'
 authors:
     - 'Michelle Lin, MD'
 created: 2011/01/13
-updates: null
++updates: 2017/03/22
 categories:
     - Neurology
 drugs: null
@@ -57,3 +57,4 @@ Coordinate with primary care physician
 
 -   [Earnest MP et. al. Intracranial lesions shown by CT scans in 259 cases of first alcohol-related seizures. Neurology. 1988 Oct;38(10):1561-5.](http://www.ncbi.nlm.nih.gov/pubmed/?term=3419599)
 -   [Jagoda A, Gupta K. The emergency department evaluation of the adult patient who presents with a first-time seizure. Emerg Med Clin North Am. 2011 Feb;29(1):41-9. doi: 10.1016/j.emc.2010.08.004.](http://www.ncbi.nlm.nih.gov/pubmed/?term=21109101)
+-   [Gottlieb M, Clayton GC. Should antiepileptic drugs be initiated in the emergency department after a first-time seizure? Annal of Emerg Med. 2016] (http://www.annemergmed.com/article/S0196-0644(16)31026-5/pdf) 
